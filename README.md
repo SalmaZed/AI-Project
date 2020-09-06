@@ -1,5 +1,5 @@
 # AI-Project
-This repository contains an Artificial Intelligence (AI) project implemented for an introductory course to AI at the German University in Cairo (GUC).
+This repository contains a project implemented for an introductory course to AI at the German University in Cairo (GUC).
 
 Having an Ironman theme, the aim of this project is to formulate a search plan that Iron Man can follow to defeat Thanos (if
 one exists). The following search algorithms are implemented in this project:
